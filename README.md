@@ -234,20 +234,6 @@ We welcome contributions to make CharityChain even better! Here's how:
 - 🔗 Additional blockchain integrations
 - 🎨 UI/UX improvements
 
-## 📄 **Documentation**
-
-### Quick References
-- [🚀 Quick Start Guide](./QUICK_START.md)
-- [🔧 Setup Instructions](./STARTUP_GUIDE.md) 
-- [🔌 Wallet Integration](./frontend/WALLET_INTEGRATION_GUIDE.md)
-- [🔑 Blockfrost Setup](./frontend/BLOCKFROST_SETUP.md)
-- [❓ FAQ & Troubleshooting](./WALLET_TROUBLESHOOTING.md)
-
-### API Documentation
-- **Frontend**: http://localhost:3000 (React app with Wallet UI)
-- **Backend API**: http://localhost:3001/api (REST API endpoints)
-- **API Docs**: Available in `/docs/api-docs.md`
-
 ## 🐛 **Troubleshooting**
 
 ### Common Issues
@@ -331,16 +317,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **Iranian NGO partners** for humanitarian collaboration
 - **Open Source Community** for tools and inspiration
 - **Hackathon organizers** for platform and opportunity
-
-## 📊 **Project Stats**
-
-![GitHub stars](https://img.shields.io/github/stars/Dhananjaya001/IDonateCopy)
-![GitHub forks](https://img.shields.io/github/forks/Dhananjaya001/IDonateCopy)
-![GitHub issues](https://img.shields.io/github/issues/Dhananjaya001/IDonateCopy)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/Dhananjaya001/IDonateCopy)
-
----
-
 <div align="center">
 
 **🇮🇷 Supporting Iran Through Blockchain Transparency 🇮🇷**
